@@ -1,0 +1,34 @@
+<html>
+<head>
+<style>
+
+div 
+
+{
+border:solid;
+transition-duration: 5s;
+}
+
+div:hover
+
+{
+color:blue;
+transform:rotate(-20deg)translate(40px, 40px)scale(0.5);
+transition-duration: 5s;
+}
+
+<title>
+
+</title>
+
+</style>
+
+</head>
+
+<body>
+
+<div> Hover over me to tip the scale </div>
+
+</body>
+
+</html>

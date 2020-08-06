@@ -1,0 +1,47 @@
+<html>
+<head>
+<style>
+
+
+<title>
+Positioning
+</title>
+
+</style>
+
+</head>
+
+<body style="margin-bottom:1000px;">
+
+<span style="position:absolute; left:400px;"> First Element </span>
+
+<span style="position:relative; left:100px;"> Second Element </span>
+
+<span style="position:fixed; bottom:100px;"> I am always with you </span>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--邪魔しないで

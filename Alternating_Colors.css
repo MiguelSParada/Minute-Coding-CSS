@@ -1,0 +1,29 @@
+<html>
+<head>
+<style>
+
+li:nth-child(odd)
+{
+background-color:yellow;
+}
+
+<title>
+Alternating colors
+</title>
+
+</style>
+
+
+<body>
+
+<ol>
+<li> Important </li>
+<li> Not Important </li>
+<li> Might be Important </li>
+<li> Low priority </li>
+</ol>
+
+
+</body>
+
+</html>
